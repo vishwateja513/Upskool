@@ -50,7 +50,7 @@ const Header: React.FC<HeaderProps> = ({ onSearch }) => {
             {/* Logo */}
             <div className="flex items-center">
               <img 
-                src="/public/image.png" 
+                src="https://www.cognitbotz.com/wp-content/uploads/2023/02/Logo-768x182.png" 
                 alt="CognitBotz" 
                 className="h-10 w-auto"
               />
