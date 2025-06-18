@@ -10,7 +10,7 @@ interface Message {
 }
 
 const API_URL = 'https://api.groq.com/openai/v1/chat/completions';
-const API_KEY = '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'; // Replace with your actual key
+const API_KEY = 'xai-KzGkTdDS90KuXKO1nYl9cagDooVvwi3r27SklGWN3QrUsbTWuFK8n0kRhQDwub3rp4oQov3VrgWq4vJj'; // Replace with your actual key
 
 const ChatBot: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
